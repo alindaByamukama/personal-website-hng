@@ -44,3 +44,7 @@ main section ul {
     list-style: none;
     padding: 0;
 }
+
+main section ul li {
+    padding: 10px 0;
+}
