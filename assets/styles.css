@@ -1,7 +1,7 @@
 /* COLOR SCHEMES */
 :root {
     --primary-color: #d9f3d9;
-    --secondary-color: #333;
+    --secondary-color: #212823;
     --background-color: #f0f0f0;
     --text-color: #0d4817;
     --link-color: #4CAF50
@@ -57,6 +57,7 @@ main section ul {
 
 main section ul li {
     padding: 10px 0;
+    color: var(--link-color);
 }
 
 /* MEDIA QUERY FOR TABLETS */
