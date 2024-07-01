@@ -3,14 +3,13 @@
     --primary-color: #f9e8f6;
     --secondary-color: #1c0236;
     --background-color: #f0f0f0;
-    
     --text-color: #230b26;
     --link-color: #3b1376;
 }
 
 /* BASE STYLES - DEFAULT FOR LARGER SCREENS */
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', 'Pacifico', sans-serif;
     margin: 0;
     padding: 0;
     display: flex;
