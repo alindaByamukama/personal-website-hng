@@ -9,3 +9,12 @@ body {
     background-color: #f0f0f0;
     color: #333;
 }
+
+header, main {
+    width: 100%;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #fff;
+    margin: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
