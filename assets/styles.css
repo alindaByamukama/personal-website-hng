@@ -1,3 +1,11 @@
+/* COLOR SCHEMES */
+:root {
+    --primary-color: #4CAF50;
+    --secondary-color: #333;
+    --background-color: #f0f0f0;
+    --text-color: #4CAF50;
+}
+
 /* BASE STYLES - DEFAULT FOR LARGER SCREENS */
 body {
     font-family: 'Roboto', sans-serif;
