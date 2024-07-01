@@ -1,10 +1,10 @@
 /* COLOR SCHEMES */
 :root {
     --primary-color: #f3dbef;
-    --secondary-color: #212823;
+    --secondary-color: #1c0236;
     --background-color: #f0f0f0;
     --text-color: #230b26;
-    --link-color: #4CAF50
+    --link-color: #3b1376;
 }
 
 /* BASE STYLES - DEFAULT FOR LARGER SCREENS */
@@ -57,7 +57,7 @@ main section ul {
 
 main section ul li {
     padding: 10px 0;
-    color: var(--link-color);
+    color: var(--secondary-color);
 }
 
 /* MEDIA QUERY FOR TABLETS */
