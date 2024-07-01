@@ -60,3 +60,17 @@ main section ul li {
         padding: 8px 0;
     }
 }
+
+/* MEDIA QUERY FOR SMALL SCREENS */
+@media (max-width: 600px) {
+    header, main {
+        padding: 10px;
+        margin: 10px;
+    }
+    header h1, header p {
+        font-size: 1,2em;
+    }
+    main section ul li {
+        padding: 5px 0;
+    }
+}
