@@ -48,3 +48,9 @@ main section ul {
 main section ul li {
     padding: 10px 0;
 }
+
+@media (max-width: 600px) {
+    header, main {
+        padding: 10px;
+    }
+}
