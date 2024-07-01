@@ -1,9 +1,10 @@
 /* COLOR SCHEMES */
 :root {
-    --primary-color: #4CAF50;
+    --primary-color: #d9f3d9;
     --secondary-color: #333;
     --background-color: #f0f0f0;
-    --text-color: #4CAF50;
+    --text-color: #0d4817;
+    --link-color: #4CAF50
 }
 
 /* BASE STYLES - DEFAULT FOR LARGER SCREENS */
@@ -15,15 +16,15 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: #f0f0f0;
-    color: #333;
+    background-color: var(--background-color);
+    color: var(--text-color);
 }
 
 header, main {
     width: 100%;
     max-width: 800px;
     padding: 20px;
-    background-color: #fff;
+    background-color: var(--primary-color);
     margin: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -40,7 +41,7 @@ header h1, header p {
 }
 
 main section {
-    margin: 20px 0;
+    margin: 20px 20px;
 }
 
 main section h2 {
