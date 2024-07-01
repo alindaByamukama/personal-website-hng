@@ -38,6 +38,7 @@ header img {
 
 header h1, header p {
     text-align: center;
+    font-weight: 700;
 }
 
 main section {
@@ -58,6 +59,18 @@ main section ul {
 main section ul li {
     padding: 10px 0;
     color: var(--secondary-color);
+    font-weight: 600;
+}
+
+a {
+    color: var(--link-color);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: darken(var(--link-color), 15%);
+    text-decoration: underline;
 }
 
 /* MEDIA QUERY FOR TABLETS */
