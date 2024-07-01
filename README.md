@@ -15,7 +15,7 @@ The webiste is created using only HTML, CSS, and JavaScript and it is designed t
 
 ## Demo
 
-You can view the live demo of the website [here](https://yourusername.github.io/personal-website-hng)
+You can view the live demo of the website [here](https://alindaByamukama.github.io/personal-website-hng)
 
 ## Features
 
@@ -39,7 +39,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://yourusername.github.io/personal-website-hng
+    git clone https://alindaByamukama.github.io/personal-website-hng
     ```
 
 2. **Navigate to the project directory:**
