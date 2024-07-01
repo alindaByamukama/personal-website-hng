@@ -7,6 +7,9 @@
     --link-color: #3b1376;
 }
 
+html {
+    scroll-behavior: smooth;
+}
 /* BASE STYLES - DEFAULT FOR LARGER SCREENS */
 body {
     font-family: 'Roboto', 'Pacifico', sans-serif;
