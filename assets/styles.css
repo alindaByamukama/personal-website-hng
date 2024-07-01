@@ -77,6 +77,9 @@ a:hover {
 
 /* MEDIA QUERY FOR TABLETS */
 @media (max-width: 768px) {
+    body {
+        background-color: var(--background-color);
+    }
     header, main {
         padding: 15px;
         margin: 15px;
@@ -88,6 +91,9 @@ a:hover {
 
 /* MEDIA QUERY FOR SMALL SCREENS */
 @media (max-width: 600px) {
+    body {
+        background-color: var(--background-color);
+    }
     header, main {
         padding: 10px;
         margin: 10px;
@@ -102,6 +108,9 @@ a:hover {
 
 /* MEDIA QUERY FOR VERY SMALL SCREENS */
 @media (max-width: 400px) {
+    body {
+        background-color: var(--background-color);
+    }
     header, min {
         padding: 5px;
         margin: 5px;
